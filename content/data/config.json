@@ -117,5 +117,6 @@
         ],
         "content": "&copy; Ensemble Matrix. All rights reserved. "
     },
-    "domain": "https://ensemble-matrix.netlify.app"
+    "domain": "https://ensemble-matrix.netlify.app",
+    "favicon": "/images/logo-6c754a39.png"
 }
