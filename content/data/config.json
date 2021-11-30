@@ -117,13 +117,5 @@
         ],
         "content": "&copy; Ensemble Matrix. All rights reserved. "
     },
-    "announcement": {
-        "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
-    },
     "domain": "https://ensemble-matrixgithubio-5b05c.netlify.app"
 }
