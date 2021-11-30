@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Ensemble Matrix
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Create AI based solutions to you boring problems.
     actions:
       - label: Contact Us
         url: /pricing
