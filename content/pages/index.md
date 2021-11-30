@@ -8,7 +8,7 @@ sections:
       - label: Contact Us
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: /images/shane-rounce-PHKgQSGzwpw-unsplash.jpg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
